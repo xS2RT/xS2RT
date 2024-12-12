@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=Python%2Cpython%2Cauto%3BJava%2Cjava%2Cauto%3BPHP%2Cphp%2Cauto%3BSwift%2Cswift%2Cauto%3B&line2=TypeScript%2Ctypescript%2Cauto%3BJavaScript%2Cjavascript%2Cauto%3BHTML%2Chtml%2Cauto%3BCSS%2Ccss%2Cauto%3B" alt="Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=Python%2Cpython%2Cauto%3BJava%2Cjava%2Cauto%3BTypeScript%2Ctypescript%2Cauto%3B&line2=JavaScript%2Cjavascript%2Cauto%3BFlask%2Cflask%2Cauto%3BBeautiful%20Soup%2Cbeautifulsoup%2Cauto%3B&line3=Pandas%2Cpandas%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3BReact%2Creact%2Cauto%3B" alt="Tech Stack" />
   </a>
 </p>
