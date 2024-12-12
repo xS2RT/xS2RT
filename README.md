@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20xS2RT%27s%20Profile!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Software%20Developer%20%7C%20Python%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlign=50&descSize=20&animation=twinkling">
+</p>
 
-<!--
-**xS2RT/xS2RT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;Python+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">STATS</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xS2RT&layout=compact&theme=ayu-mirage&hide_progress=true" alt="Top Languages"> 
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xS2RT&theme=github_dark&show_icons=true&bg_color=0111111" alt="GitHub Profile Summary"> 
+</p>
+
+<h2 align="center">TECH STACK</h2>
+
+<p align="center">
+  <a href="https://github-readme-tech-stack.vercel.app">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=Python%2Cpython%2Cauto%3BJava%2Cjava%2Cauto%3BPHP%2Cphp%2Cauto%3BSwift%2Cswift%2Cauto%3B&line2=TypeScript%2Ctypescript%2Cauto%3BJavaScript%2Cjavascript%2Cauto%3BHTML%2Chtml%2Cauto%3BCSS%2Ccss%2Cauto%3B" alt="Tech Stack" />
+  </a>
+</p>
